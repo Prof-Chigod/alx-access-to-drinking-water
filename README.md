@@ -28,9 +28,10 @@ Spreadsheet analysis of WHO/UNICEF JMP estimates on drinking-water service level
 
 # Undertanding the datasets
 <img width="904" height="386" alt="image" src="https://github.com/user-attachments/assets/963930f1-1d3a-4b14-b577-d9c2970528c8" />
-Identity
+## Identity
 Name: Representing country or area.
-Income_group: High / Upper middle / Lower middle / Low, or NAN if unpublished.
+
+## Income_group: High / Upper middle / Lower middle / Low, or NAN if unpublished.
 Population
 Pop_n:  national population in thousands (not millions, not people).
 pop_u : A percentage of  urban population, not a count of people.
